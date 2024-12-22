@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Här ska det uppstå komplikationer över vilka i skaran som ska få följa med på rymdfärden till planeten.
+=======
+Här ska det uppstå komplikationer över vilka i skaran som ska få följa med på roadtrippen till landet.
+>>>>>>> roadtrip-story
